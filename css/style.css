@@ -120,15 +120,19 @@ h1{
     font-size: 3em;
     color: white;
     text-align: center;
+    font-family: akira;
     
+}
+.bio {
+    text-decoration:underline;
 }
 
 /*--------------------------SOBRE MI----------------------------*/
 
 
 .descsobremi {
-    height: 31em;
-    width: 35em;
+    height: 20em;
+    width: 55em;
     color: white;
     background: rgba(27, 27, 27, 0.582);
     font-family: crash;
