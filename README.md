@@ -12,6 +12,7 @@ de código interna, entre otros.
 
 ## Tecnologias utilizadas 
 
+html5 css3
 
 ## Requisitos 📋
 
@@ -22,7 +23,7 @@ Ganas y tiempo.
 
 ## Despliegue 📦
 
-Puedes acceder al despliege al público en el siguiente enlace https://alexmonpe.github.io/PersonalWebsite/
+Puedes acceder al despliege al público en el siguiente enlace https://alexmonpe.github.io/AlexMonPe.io/
 
 ## Autores ✒️
 
@@ -30,7 +31,7 @@ Alejandro Montero.
 
 ## Repositorio
 
-https://github.com/AlexMonPe/PersonalWebsite.git
+https://github.com/AlexMonPe/AlexMonPe.io.git
 
 
 Cualquier sugerencia de mejora es bienvenida.
