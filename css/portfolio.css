@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'hiromisake';
-    src: url(/imagenes/HIROMISAKE.ttf);
+    src: url(../imagenes/HIROMISAKE.ttf);
 }
 @font-face {
     font-family: 'akira';
-    src: url(/Fonts/akira-expanded-outline.ttf);
+    src: url(../Fonts/akira-expanded-outline.ttf);
 }
 @font-face {
     font-family: 'crash';
-    src: url(/Fonts/GideonRoman-Regular.ttf);
+    src: url(../Fonts/GideonRoman-Regular.ttf);
 }
 html{
     margin: 0;
@@ -16,7 +16,7 @@ html{
 body{
     margin: 0;
     height: 100%;
-    background-image: url(../imagenes/background.jpg);
+    background-image: url(./imagenes/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
