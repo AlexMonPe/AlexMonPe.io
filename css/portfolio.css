@@ -16,7 +16,7 @@ html{
 body{
     margin: 0;
     height: 100%;
-    background-image: url(./imagenes/background.jpg);
+    background-image: url(../imagenes/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
