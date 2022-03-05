@@ -16,9 +16,9 @@ html5 css3
 
 ## Requisitos 📋
 
+Página web personal con funcionalidad básica y contenido en 4 htmls.
 Google Chrome.
 Visual Studio Code.
-Ganas y tiempo.
 
 
 ## Despliegue 📦
